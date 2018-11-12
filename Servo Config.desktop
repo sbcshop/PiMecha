@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Servo Config
+Comment=PiMecha Servo Configuration
+Exec=/home/pi/PiMecha/configGUI.py
+Icon=/home/pi/PiMecha/Images/servo_config.png
+Terminal=true

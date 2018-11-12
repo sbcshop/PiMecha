@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=PiMecha
+Comment=PiMecha Software
+Exec=/home/pi/PiMecha/controlGUI.py
+Icon=/home/pi/PiMecha/Images/pimecha.png
+Terminal=true
