@@ -17,3 +17,4 @@ PiMecha is a Raspberry Pi Humanoid Robot with 17 DOF
 4. Click on the 'Servo Config' shortcut icon to configure your motor, or if you wish to give movements to PiMecha or control it, click on the 'PiMecha' shortcut icon.
 
 5. You can also move these 2 icons to your desktop for your convinience.
+<img src="http://sb-components.co.uk/assets/images/portfolio/Capture1.png" width="800">
