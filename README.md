@@ -18,3 +18,29 @@ PiMecha is a Raspberry Pi Humanoid Robot with 17 DOF
 
 5. You can also move these 2 icons to your desktop for your convinience.
 <img src="http://sb-components.co.uk/assets/images/portfolio/Capture1.png" width="800">
+
+# PiMecha with LCD
+One of the variants of PiMecha has a LCD mounted on its chest. You can configure this screen using few simple steps.
+
+**Steps for LCD configuration **
+1. Open terminal and go to the PiMecha directory and type
+```cd LCD-show
+chmod +x LCD4-show 
+chmode +x LCD-hdmi
+```
+
+2. Now you would require to rotate your screen to the viuewing angle. Write
+
+```./LCD4-show 180```
+
+After you enter this command, your system will ask you for reboot. Enter 'y' and reboot your Pi.
+
+3. While your system is rebooting, you will have to connect the HDMI and MicroUSB Cable.
+
+Note: In case you see your screen resolutions distorted, you just have to press the on/off button the the LCD screen at its back. This will restore its resolution then.
+
+If you wish to return back to the HDMI, enter
+
+```./LCD-hdmi```
+
+
