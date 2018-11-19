@@ -45,4 +45,8 @@ If you wish to return back to the HDMI, enter
 
 <img src="http://sb-components.co.uk/assets/images/portfolio/Capture2.png" width="800">
 
+**Buy Link**
+
+SB Shop <a href="https://shop.sb-components.co.uk/search?type=product&q=pimecha" target="_blank">https://shop.sb-components.co.uk/search?type=product&q=pimecha</a>
+
 
