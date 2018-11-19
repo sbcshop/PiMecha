@@ -22,7 +22,7 @@ PiMecha is a Raspberry Pi Humanoid Robot with 17 DOF
 # PiMecha with LCD
 One of the variants of PiMecha has a LCD mounted on its chest. You can configure this screen using few simple steps.
 
-**Steps for LCD configuration **
+**Steps for LCD configuration**
 1. Open terminal and go to the PiMecha directory and type
 ```cd LCD-show
 chmod +x LCD4-show 
