@@ -45,8 +45,25 @@ If you wish to return back to the HDMI, enter
 
 <img src="http://sb-components.co.uk/assets/images/portfolio/Capture2.png" width="800">
 
-**Buy Link**
+#Buy Link
 
 SB Shop <a href="https://shop.sb-components.co.uk/search?type=product&q=pimecha" target="_blank">https://shop.sb-components.co.uk/search?type=product&q=pimecha</a>
+
+
+#PiMecha Tutorial links
+
+**Servo Config**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QBY8_OcnnSg" target="_blank">
+<img src="http://img.youtube.com/vi/QBY8_OcnnSg/0.jpg" alt="PiMecha servo config tutorial video" width="800" />
+</a>
+
+
+
+**PiMecha Control Software**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Spr0D8LX27g" target="_blank">
+<img src="http://img.youtube.com/vi/Spr0D8LX27g/0.jpg" alt="PiMecha servo config tutorial video" width="800" />
+</a>
 
 
