@@ -43,4 +43,6 @@ If you wish to return back to the HDMI, enter
 
 ```./LCD-hdmi```
 
+<img src="http://sb-components.co.uk/assets/images/portfolio/Capture2.png" width="800">
+
 
