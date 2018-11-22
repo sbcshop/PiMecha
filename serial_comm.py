@@ -62,8 +62,9 @@ class SerialComm(object):
             self._notification.append(line)
             if self.serial.inWaiting() == 0:
                 # No more chars for this notification
-                self.log.debug('notification: %s', self._notification)
-                self.handlerNotification(self._notification)
+                #self.log.debug('notification: %s', self._notification)
+                self.log.debug('notification: Serial Device Connected')
+                #self.handlerNotification(self._notification)
                 self._notification = []
 
     def _readLoop(self):
