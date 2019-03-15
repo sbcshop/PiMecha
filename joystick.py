@@ -26,7 +26,7 @@ class Joystick_Controller(object):
         self.controller.init()
 
         # Write your code path
-        file = open('/home/pi/PiMecha/Export Files/code 1.txt', 'r')
+        file = open('/home/pi/PiMecha/Example Codes/code 1.txt', 'r')
 
         for line in file:
             self.command_data.append(line.strip())
