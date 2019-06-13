@@ -9,8 +9,7 @@ PiMecha is a Raspberry Pi Humanoid Robot with 17 DOF
 
 3. Go to directory 'PiMecha' and run the command to change the permissions of 'configGUI' and 'controlGUI' python files:
    ```
-   sudo chmod +x configGUI.py
-   sudo chmod +x controlGUI.py
+   sudo chmod +x configGUI.py controlGUI.py
    ```
    You are now able to run these two softwares for your PiMecha. The control software is to control the movements of PiMecha, while the config software is to config the servo motor.
 
@@ -25,8 +24,7 @@ One of the variants of PiMecha has a LCD mounted on its chest. You can configure
 **Steps for LCD configuration**
 1. Open terminal and go to the PiMecha directory and type
 ```cd LCD-show
-chmod +x LCD4-show 
-chmode +x LCD-hdmi
+chmod +x LCD4-show LCD-hdmi
 ```
 
 2. Now you would require to rotate your screen to the viuewing angle. Write
