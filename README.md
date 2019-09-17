@@ -16,7 +16,7 @@ PiMecha is a Raspberry Pi Humanoid Robot with 17 DOF
 4. Click on the 'Servo Config' shortcut icon to configure your motor, or if you wish to give movements to PiMecha or control it, click on the 'PiMecha' shortcut icon.
 
 5. You can also move these 2 icons to your desktop for your convinience.
-<img src="http://sb-components.co.uk/assets/images/portfolio/Capture1.png" width="800">
+<img src="Images/ServoDesktop.PNG" width="800">
 
 # PiMecha with LCD
 One of the variants of PiMecha has a LCD mounted on its chest. You can configure this screen using few simple steps.
@@ -40,8 +40,8 @@ Note: In case you see your screen resolutions distorted, you just have to press 
 If you wish to return back to the HDMI, enter
 
 ```./LCD-hdmi```
-
-<img src="http://sb-components.co.uk/assets/images/portfolio/Capture2.png" width="800">
+<p align="center">
+<img src="Images/ServoTerminal.PNG" width="800"></p>
 
 # PiMecha Tutorial links
 
@@ -51,10 +51,11 @@ If you wish to return back to the HDMI, enter
 </p>
 
 **PiMecha Control Software**
-
+<p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Spr0D8LX27g" target="_blank">
 <img src="Images/ServoControl.PNG" alt="PiMecha control tutorial video" width="800" />
 </a>
+   </p>
 
 
 
