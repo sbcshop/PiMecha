@@ -46,9 +46,9 @@ If you wish to return back to the HDMI, enter
 # PiMecha Tutorial links
 
 **Servo Config**
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=QBY8_OcnnSg" target="_blank"><img src="http://sb-components.co.uk/assets/images/portfolio/Capture3.png" alt="PiMecha servo config tutorial video" width="800" title="Servo Config" alt="PiMecha"></a>
-
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QBY8_OcnnSg" target="_blank"><img src="https://github.com/sbcshop/PiMecha/Images/ServoConfig.PNG" alt="PiMecha servo config tutorial video" width="800" title="Servo Config" alt="PiMecha"></a>
+</p>
 
 **PiMecha Control Software**
 
