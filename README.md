@@ -53,7 +53,7 @@ If you wish to return back to the HDMI, enter
 **PiMecha Control Software**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Spr0D8LX27g" target="_blank">
-<img src="Images/ServoControl.png" alt="PiMecha control tutorial video" width="800" />
+<img src="Images/ServoControl.PNG" alt="PiMecha control tutorial video" width="800" />
 </a>
 
 
