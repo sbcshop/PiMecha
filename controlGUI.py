@@ -52,6 +52,8 @@ class MainApp(pimecha.PiMecha, tk.Tk):
         
         self.geometry("%dx%d+%d+%d" %(self.app_width,self.app_height,self.xpos,
                                       self.ypos))
+        if not self.screen_width > self.app_width:
+            self.attributes('-fullscreen', True)
         self.title("PiMecha Controller")
         self.config(bg="gray85")
 
@@ -875,7 +877,7 @@ class MainApp(pimecha.PiMecha, tk.Tk):
                 self.click.config(text="Video")
 
             self.camera.preview_fullscreen=False
-            self.camera.preview_window=(400, 240, 730, 480)
+            self.camera.preview_window=(0, 0, 730, 480)
             self.camera.resolution=(800,480)
             self.camera.start_preview()
             self.camhome.config(state="disable")
